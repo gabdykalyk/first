@@ -1,2 +1,3 @@
-# gabdykalyk
-Hello! My name is Oral, and i don't know, what i'm actually doing
+# Hi
+This is my first website
+You can find it [here](https://gabdykalyk.github.io/gabdykalyk/)
